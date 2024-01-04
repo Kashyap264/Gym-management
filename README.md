@@ -147,6 +147,7 @@ By the end of this milestone, you would be having a working chatbot system that 
 ## URLs
 Drive video URL:https://drive.google.com/file/d/1tMqufhAGLdp-I9fIbayywD7UXwV5WoMt/view?usp=drive_link
 
+PDF File With ScreenShoots and explanation about project : https://drive.google.com/file/d/1dbbzV1e5WZ0-MSjoZp_O9sdjja-eNCpH/view?usp=drive_link
 project URL:https://kashyap264.github.io/Gym-management/
 
 Azure Account ID: kdeepak30035@gmail.com
